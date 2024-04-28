@@ -1,2 +1,2 @@
 # crud_operation
- Crud Operation using window Form C# in .Net Core
+ crud_operation_using_window_Form_C#_.NetCore
